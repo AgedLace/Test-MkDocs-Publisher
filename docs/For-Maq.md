@@ -19,3 +19,11 @@ Under '02-Blog', I've created a README.md file with the name 'Blog', and slug of
 
 I can't figure out how to change the url to 'Blog'.
 
+
+### Deploying to GH-Pages
+
+Changed Material for MkDocs ci.yml file to install mkdocs publisher.
+Everything seems to be fine, but when I go to my site's page, I get a '404 - Not found' page instead.
+
+When I used the local server, everything worked fine.  
+
