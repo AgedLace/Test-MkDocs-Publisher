@@ -1,5 +1,5 @@
 ---
-title: first-post
+title: Lorem Ipsum
 slug: lorem-ipsum
 date: 2024-08-10 12:01:26
 update: 2024-08-11 06:53:36
@@ -7,7 +7,6 @@ publish: "true"
 tags: [tag1, tag2]
 categories: cat1, cat2
 ---
-## Lorem Ipsum
 
 "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit…"  
 "There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain…"
