@@ -7,4 +7,8 @@ publish: hidden
 tags: []
 categories: 
 ---
-## Home
+
+
+# Publisher for MkDocs Meta Template
+
+Just a template file containing template for metadata for files.

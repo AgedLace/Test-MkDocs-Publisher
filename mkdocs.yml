@@ -141,7 +141,10 @@ plugins:
 #          - mkdocs.plugins.publisher.social.plugin
 #          - mkdocs.commands.build
   - search
-  - pub-meta
+  - pub-meta:
+      publish:
+        file_default: true
+        dir_default: published
   - pub-blog:
       blog_dir: 02-Blog
   - pub-obsidian
