@@ -10,7 +10,6 @@ categories:
 ---
 **SOURCE** - [Markdown Cheat Sheet | Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
 
-## Basic Syntax
 
 These are the elements outlined in John Gruber's original design document. All Markdown applications support these elements.
 

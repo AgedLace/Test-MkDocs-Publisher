@@ -10,8 +10,6 @@ categories:
 ---
 **SOURCE** - [Markdown Cheat Sheet | Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
 
-## Extended Syntax
-
 These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
 
 ### Table

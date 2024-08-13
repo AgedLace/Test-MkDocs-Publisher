@@ -10,8 +10,6 @@ categories:
 ---
 **SOURCE** - [Advanced formatting syntax - Obsidian Help](https://help.obsidian.md/Editing+and+formatting/Advanced+formatting+syntax)
 
-## Obsidian Advanced Formatting
-
 Learn how to add advanced formatting syntax to your notes.
 
 ### Tables

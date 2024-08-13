@@ -10,8 +10,6 @@ categories:
 ---
 **SOURCE** - [Basic formatting syntax - Obsidian Help](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax)
 
-## Obsidian Basic Formatting
-
 Learn how to apply basic formatting to your notes, using [Markdown](https://daringfireball.net/projects/markdown/). For more advanced formatting syntax, refer to [[Obsidian-Advanced-Formatting]].
 
 ### Paragraphs

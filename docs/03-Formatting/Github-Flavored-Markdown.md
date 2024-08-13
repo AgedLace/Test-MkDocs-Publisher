@@ -10,8 +10,6 @@ categories:
 ---
 **SOURCE** - [⚡️ Full Markdown Example](https://gist.github.com/allysonsilva/85fff14a22bbdf55485be947566cc09e)
 
-## Github Flavored Markdown
-
 ### Headers
 
 ```markdown
