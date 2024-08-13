@@ -52,7 +52,7 @@ You can use [[Obsidian-Basic-Formatting]] to style content within a table.
 
 > [!note] Vertical bars in tables  
 > 
-> If you want to use aliases, or to [[Obsidian-Basic-Formatting#External images|resize an image]] in your table, you need to add a `\` before the vertical bar.
+> If you want to use aliases, or to resize an image in your table, you need to add a `\` before the vertical bar.
 
 
 ```md

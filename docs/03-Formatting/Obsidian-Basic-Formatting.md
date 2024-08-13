@@ -2,7 +2,7 @@
 title: Obsidian-Basic-Formatting
 slug: obsidian-basic
 date: 2024-08-11 10:44:54
-update: 2024-08-11 11:09:22
+update: 2024-08-12 05:47:18
 publish: "true"
 tags:
   - Formatting/Markdown/Obsidian/Basic

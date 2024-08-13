@@ -9,6 +9,8 @@ __pycache__
 # Project specific
 .obsidian/
 .trash/
+_attachments/
+_templates/
 
 # Logs
 *_mkdocs_build.log
