@@ -15,15 +15,17 @@ categories:
 ### Headers
 
 ```markdown
-# h1 Heading 8-)
+# h1 Heading
 ## h2 Heading
 ### h3 Heading
 #### h4 Heading
 ##### h5 Heading
 ###### h6 Heading
+```
 
 Alternatively, for H1 and H2, an underline-ish style:
 
+```
 Alt-H1
 ======
 
@@ -31,26 +33,20 @@ Alt-H2
 ------
 ```	
 
-### H1 Heading 8-)
-
+### H1 Heading
 #### H2 Heading
-
 ##### H3 Heading
-
 ###### H4 Heading
-
 ###### H5 Heading
-
 ###### H6 Heading
 
 Alternatively, for H1 and H2, an underline-ish style:
 
-Alt-H1
+```Alt-H1
 ======
 
 Alt-H2
 ------
-
 ```
 
 ---

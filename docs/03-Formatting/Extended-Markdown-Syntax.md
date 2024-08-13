@@ -8,7 +8,6 @@ tags:
   - Formatting/Markdown/Extended-Syntax
 categories: 
 ---
-
 **SOURCE** - [Markdown Cheat Sheet | Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
 
 ## Extended Syntax

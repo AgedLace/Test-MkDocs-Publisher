@@ -56,15 +56,6 @@ To create a heading, add up to six `#` symbols before your heading text. The num
 ###### This is a heading 6
 ```
 
-%% These headings use HTML to avoid cluttering the Outline/Table of contents %%
-
-<h1>This is a heading 1</h1>
-<h2>This is a heading 2</h2>
-<h3>This is a heading 3</h3>
-<h4>This is a heading 4</h4>
-<h5>This is a heading 5</h5>
-<h6>This is a heading 6</h6>
-
 ### Bold, Italics, Highlights
 
 Text formatting can also be applied using Editing shortcuts.
