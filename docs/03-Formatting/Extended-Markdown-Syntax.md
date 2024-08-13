@@ -1,5 +1,5 @@
 ---
-title: Extended-Markdown-Syntax
+title: Extended Markdown Syntax
 slug: extended-syntax
 date: 2024-08-11 09:32:57
 update: 2024-08-12 09:00:48

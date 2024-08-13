@@ -1,5 +1,5 @@
 ---
-title: Obsidian-Basic-Formatting
+title: Obsidian Basic Formatting
 slug: obsidian-basic
 date: 2024-08-11 10:44:54
 update: 2024-08-12 09:01:30

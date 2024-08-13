@@ -1,6 +1,6 @@
 ---
-title: Github-Flavored-Markdown
-slug: gfm
+title: Github Flavored Markdown
+slug: github-flavored-markdown
 date: 2024-08-11 09:50:39
 update: 2024-08-12 09:01:06
 publish: "true"

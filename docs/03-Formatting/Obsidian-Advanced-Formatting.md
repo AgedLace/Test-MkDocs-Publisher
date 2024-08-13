@@ -1,5 +1,5 @@
 ---
-title: Obsidian-Advanced-Formatting
+title: Obsidian Advanced Formatting
 slug: obsidian-advanced
 date: 2024-08-11 10:45:25
 update: 2024-08-12 09:01:17

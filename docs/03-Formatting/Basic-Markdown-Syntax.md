@@ -1,5 +1,5 @@
 ---
-title: Basic-Markdown-Syntax
+title: Basic Markdown Syntax
 slug: basic-syntax
 date: 2024-08-11 09:09:46
 update: 2024-08-12 09:00:52
