@@ -1,13 +1,14 @@
 ---
-title: Extended-Syntax
+title: Extended-Markdown-Syntax
 slug: extended-syntax
 date: 2024-08-11 09:32:57
-update: 2024-08-11 10:22:28
+update: 2024-08-12 09:00:48
 publish: "true"
 tags:
   - Formatting/Markdown/Extended-Syntax
 categories: 
 ---
+
 **SOURCE** - [Markdown Cheat Sheet | Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
 
 ## Extended Syntax

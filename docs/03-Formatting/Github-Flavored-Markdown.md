@@ -2,7 +2,7 @@
 title: Github-Flavored-Markdown
 slug: gfm
 date: 2024-08-11 09:50:39
-update: 2024-08-11 10:34:39
+update: 2024-08-12 09:01:06
 publish: "true"
 tags:
   - Formatting/Markdown/Github-Flavored
@@ -10,7 +10,9 @@ categories:
 ---
 **SOURCE** - [⚡️ Full Markdown Example](https://gist.github.com/allysonsilva/85fff14a22bbdf55485be947566cc09e)
 
-## Headers
+## Github Flavored Markdown
+
+### Headers
 
 ```markdown
 # h1 Heading 8-)
@@ -29,13 +31,13 @@ Alt-H2
 ------
 ```	
 
-## H1 Heading 8-)
+### H1 Heading 8-)
 
-### H2 Heading
+#### H2 Heading
 
-#### H3 Heading
+##### H3 Heading
 
-##### H4 Heading
+###### H4 Heading
 
 ###### H5 Heading
 
@@ -95,7 +97,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 ---
 
-## Lists
+### Lists
 
 ```markdown
 1. First ordered list item
@@ -169,7 +171,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 ---
 
-## Task Lists
+### Task Lists
 
 ```markdown
 - [x] Finish my changes
@@ -191,7 +193,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 ---
 
-## Ignoring Markdown Formatting
+### Ignoring Markdown Formatting
 
 You can tell GitHub to ignore (or escape) Markdown formatting by using \ before the Markdown character.
 
@@ -203,7 +205,7 @@ Let's rename \*our-new-project\* to \*our-old-project\*
 
 ---
 
-## Links
+### Links
 
 ```markdown
 [I'm an inline-style link](https://www.google.com)
@@ -233,10 +235,10 @@ Some text to show that the reference links can follow later.
 
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+[I'm a reference-style link][Arbitrary case-insensitive reference text]  
 %%
 [I'm a relative reference to a repository file](../blob/master/LICENSE)
-%%
+%%  
 [You can use numbers for reference-style link definitions][1]
 
 Or leave it empty and use the [link text itself].
@@ -253,7 +255,7 @@ Some text to show that the reference links can follow later.
 
 ---
 
-## Images
+### Images
 
 ```markdown
 Here's our logo (hover to see the title text):
@@ -311,7 +313,7 @@ With a reference later in the document defining the URL location:
 
 ---
 
-## Footnotes
+### Footnotes
 
 ```markdown
 Footnote 1 link[^first].
@@ -339,7 +341,7 @@ Duplicated footnote reference.[^2]
 
 ---
 
-## Code and Syntax Highlighting
+### Code and Syntax Highlighting
 
 ```markdown
 Inline `code` has `back-ticks around` it.
@@ -459,7 +461,7 @@ datahere
 
 ---
 
-## Tables
+### Tables
 
 ```markdown
 Colons can be used to align columns.
@@ -549,7 +551,7 @@ Markdown | Less | Pretty
 
 ---
 
-## Blockquotes
+### Blockquotes
 
 ```markdown
 > Blockquotes are very handy in email to emulate reply text.
@@ -579,7 +581,7 @@ Quote break.
 
 ---
 
-## Inline HTML
+### Inline HTML
 
 ```markdown
 <dl>
@@ -591,7 +593,7 @@ Quote break.
 </dl>
 ```
 
-## Horizontal Rules
+### Horizontal Rules
 
 ```markdown
 Three or more…
@@ -625,7 +627,7 @@ Underscores
 
 ---
 
-## YouTube Videos
+### YouTube Videos
 
 ```markdown
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE" target="_blank">

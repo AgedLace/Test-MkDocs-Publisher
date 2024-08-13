@@ -2,7 +2,7 @@
 title: Basic-Markdown-Syntax
 slug: basic-syntax
 date: 2024-08-11 09:09:46
-update: 2024-08-11 10:48:00
+update: 2024-08-12 09:00:52
 publish: "true"
 tags:
   - Formatting/Markdown/Basic-Syntax

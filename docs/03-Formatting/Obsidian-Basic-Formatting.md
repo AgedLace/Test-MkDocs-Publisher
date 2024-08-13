@@ -2,7 +2,7 @@
 title: Obsidian-Basic-Formatting
 slug: obsidian-basic
 date: 2024-08-11 10:44:54
-update: 2024-08-12 05:47:18
+update: 2024-08-12 09:01:30
 publish: "true"
 tags:
   - Formatting/Markdown/Obsidian/Basic
@@ -10,9 +10,11 @@ categories:
 ---
 **SOURCE** - [Basic formatting syntax - Obsidian Help](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax)
 
+## Obsidian Basic Formatting
+
 Learn how to apply basic formatting to your notes, using [Markdown](https://daringfireball.net/projects/markdown/). For more advanced formatting syntax, refer to [[Obsidian-Advanced-Formatting]].
 
-## Paragraphs
+### Paragraphs
 
 To create paragraphs, use a blank line to separate one or more lines of text.
 
@@ -41,7 +43,7 @@ This is another paragraph.
 > 
 > If you want to add multiple spaces, you can add `&nbsp;` (blank space) and `<br>` (newline) to your note.
 
-## Headings
+### Headings
 
 To create a heading, add up to six `#` symbols before your heading text. The number of `#` symbols determines the size of the heading.
 
@@ -63,7 +65,7 @@ To create a heading, add up to six `#` symbols before your heading text. The num
 <h5>This is a heading 5</h5>
 <h6>This is a heading 6</h6>
 
-## Bold, Italics, Highlights
+### Bold, Italics, Highlights
 
 Text formatting can also be applied using Editing shortcuts.
 
@@ -90,14 +92,14 @@ Formatting can be forced to display in plain text by adding a backslash `\` in f
 \**This line will be italic and show the asterisks*\*
 ```
 
-## Internal Links
+### Internal Links
 
 Obsidian supports two formats for internal links between notes:
 
 - Wikilink: `[[Three laws of motion]]`
 - Markdown: `[Three laws of motion](Three%20laws%20of%20motion.md)`
 
-## External Links
+### External Links
 
 If you want to link to an external URL, you can create an inline link by surrounding the link text in brackets (`[ ]`), and then the URL in parentheses (`( )`).
 
@@ -113,7 +115,7 @@ You can also create external links to files in other vaults, by linking to an Ob
 [Note](obsidian://open?vault=MainVault&file=Note.md)
 ```
 
-### Escape Blank Spaces in Links
+#### Escape Blank Spaces in Links
 
 If your URL contains blank spaces, you must escape them by replacing them with `%20`.
 
@@ -127,7 +129,7 @@ You can also escape the URL by wrapping it with angled brackets (`< >`).
 [My Note](<obsidian://open?vault=MainVault&file=My Note.md>)
 ```
 
-## External Images
+### External Images
 
 You can add images with external URLs, by adding a `!` symbol before an external link.
 
@@ -152,7 +154,7 @@ If you only specify the width, the image scales according to its original aspect
 > [!tip]  
 > If you want to add an image from inside your vault, you can also embed an image in a note.
 
-## Quotes
+### Quotes
 
 You can quote text by adding a `>` symbols before the text.
 
@@ -169,7 +171,7 @@ You can quote text by adding a `>` symbols before the text.
 > [!tip]  
 > You can turn your quote into a callout by adding `[!info]` as the first line in a quote.
 
-## Lists
+### Lists
 
 You can create an unordered list by adding a `-`, `*`, or `+` before the text.
 
@@ -195,7 +197,7 @@ To create an ordered list, start each line with a number followed by a `.` symbo
 2. Second list item
 3. Third list item
 
-### Task Lists
+#### Task Lists
 
 To create a task list, start each list item with a hyphen and space followed by `[ ]`.
 
@@ -222,7 +224,7 @@ You can toggle a task in Reading view by selecting the checkbox.
 > - [?] Eggs
 > - [-] Eggs
 
-### Nesting Lists
+#### Nesting Lists
 
 All list types can be nested in Obsidian.
 
@@ -256,7 +258,7 @@ Similarly, you can create a nested task list by indenting one or more list items
 
 Use `Tab` or `Shift+Tab` to indent or unindent one or more selected list items for easy organization.
 
-## Horizontal Rule
+### Horizontal Rule
 
 You can use three or more stars `***`, hyphens `---`, or underscore `___` on its own line to add a horizontal bar. You can also separate symbols using spaces.
 
@@ -274,11 +276,11 @@ _ _ _
 
 ***
 
-## Code
+### Code
 
 You can format code both inline within a sentence, or in its own block.
 
-### Inline Code
+#### Inline Code
 
 You can format code within a sentence using single backticks.
 
@@ -290,7 +292,7 @@ Text inside `backticks` on a line will be formatted like code.
 
 If you want to put backticks in an inline code block, surround it with double backticks like so: inline ``code with a backtick ` inside``.
 
-### Code Blocks
+#### Code Blocks
 
 To format a block of code, surround the code with triple backticks.
 
@@ -335,7 +337,7 @@ Obsidian uses Prism for syntax highlighting. For more information, refer to [Sup
 > [!note]  
 > Source mode and Live Preview do not support PrismJS, and may render syntax highlighting differently.
 
-## Footnotes
+### Footnotes
 
 You can add footnotes[^1] to your notes using the following syntax:
 
@@ -357,7 +359,7 @@ You can also use inline footnotes. ^[This is an inline footnote.]
 > [!note]  
 > Inline footnotes only work in reading view, not in Live Preview.
 
-## Comments
+### Comments
 
 You can add comments by wrapping text with `%%`. Comments are only visible in Editing view.
 

@@ -2,7 +2,7 @@
 title: Obsidian-Advanced-Formatting
 slug: obsidian-advanced
 date: 2024-08-11 10:45:25
-update: 2024-08-11 11:09:36
+update: 2024-08-12 09:01:17
 publish: "true"
 tags:
   - Formatting/Markdown/Obsidian/Advanced
@@ -10,9 +10,11 @@ categories:
 ---
 **SOURCE** - [Advanced formatting syntax - Obsidian Help](https://help.obsidian.md/Editing+and+formatting/Advanced+formatting+syntax)
 
+## Obsidian Advanced Formatting
+
 Learn how to add advanced formatting syntax to your notes.
 
-## Tables
+### Tables
 
 You can create table using vertical bars (`|`) and hyphens (`-`). Vertical bars separate columns, and hyphens define the column header.
 
@@ -39,7 +41,7 @@ Max | Planck
 Marie | Curie
 ```
 
-### Format Content within a Table
+#### Format Content within a Table
 
 You can use [[Obsidian-Basic-Formatting]] to style content within a table.
 
@@ -53,7 +55,6 @@ You can use [[Obsidian-Basic-Formatting]] to style content within a table.
 > [!note] Vertical bars in tables  
 > 
 > If you want to use aliases, or to resize an image in your table, you need to add a `\` before the vertical bar.
-
 
 ```md
 > First column | Second column
@@ -73,7 +74,7 @@ Left-aligned text | Center-aligned text | Right-aligned text
 :-- | :--: | --:
 Content | Content | Content
 
-## Diagram
+### Diagram
 
 You can add diagrams and charts to your notes, using [Mermaid](https://mermaid-js.github.io/). Mermaid supports a range of diagrams, such as [flow charts](https://mermaid.js.org/syntax/flowchart.html), [sequence diagrams](https://mermaid.js.org/syntax/sequenceDiagram.html), and [timelines](https://mermaid.js.org/syntax/timeline.html).
 
@@ -114,7 +115,7 @@ graph TD
 Biology --> Chemistry
 ```
 
-### Linking Files in a Diagram
+#### Linking Files in a Diagram
 
 You can create internal links in your diagrams by attaching the `internal-link` [class](https://mermaid.js.org/syntax/flowchart.html#classes) to your nodes.
 
@@ -167,7 +168,7 @@ This way, each letter node becomes an internal link, with the [node text](https:
 
 For more information about creating diagrams, refer to the [official Mermaid docs](https://mermaid.js.org/intro/).
 
-## Math
+### Math
 
 You can add math expressions to your notes using [MathJax](http://docs.mathjax.org/en/latest/basic/mathjax.html) and the LaTeX notation.
 
